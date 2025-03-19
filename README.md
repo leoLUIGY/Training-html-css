@@ -24,7 +24,7 @@ Implementar boas práticas de desenvolvimento web
 
 Acessar resutado:
 
-<a href="https://leoluigy.github.io/Training-html-css/">Training-html-css</a>
+<a href="https://training-html-css-gamma.vercel.app/">Training-html-css</a>
 
 Clone este repositório:
 
