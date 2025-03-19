@@ -132,10 +132,19 @@ body {
     .cabecalho{
         padding: 6% 6% 0% 6%;
     }
+
+
+    
+    .cabecalho__menu__link{
+  
+        font-size: 1.3rem;
+       
+    }
     .cabecalho__menu
     {
     
         justify-content: center;
+        gap:30px;
     }
     
     .apresentacao
@@ -148,6 +157,22 @@ body {
     {
         width: auto;
         text-align: center;
+    }
+
+    .apresentacao__links__navegacao{
+
+        width:80%;
+               
+    }
+
+    .apresentacao__conteudo__titulo{
+        
+        font-size:1.3rem;
+    }
+    
+    .apresentacao__conteudo__paragrafo{
+       
+        font-size:1.3rem;
     }
 
    
