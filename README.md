@@ -24,7 +24,7 @@ Implementar boas práticas de desenvolvimento web
 
 Acessar resutado:
 
-<a href="https://https://resume.redtab.com.br/">Training-html-css</a>
+<a href="https://resume.redtab.com.br/">Training-html-css</a>
 
 Clone este repositório:
 
