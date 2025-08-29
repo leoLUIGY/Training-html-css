@@ -1,41 +1,38 @@
-Training HTML & CSS
+# 🎨 Training HTML & CSS
 
-Este é um projeto criado a partir dos meus estudos práticos na Alura. O objetivo é aprimorar minhas habilidades em HTML e CSS, criando uma página web funcional e estilizada.
+Este é um projeto criado a partir dos meus estudos práticos na **Alura**.  
+O objetivo é aprimorar minhas habilidades em **HTML** e **CSS**, criando uma página web funcional, responsiva e estilizada.
 
-🔗 Link para visualização
+---
 
-Visualizar o projeto
+## 🔗 Link para visualização
+👉 [Acesse o projeto aqui](https://resume.redtab.com.br/)
 
-📚 Tecnologias Utilizadas
+---
 
-HTML5
+## 📚 Tecnologias utilizadas
+- **HTML5**  
+- **CSS3**  
 
-CSS3
+---
 
-🎯 Objetivos do Projeto
+## 🎯 Objetivos do projeto
+- Praticar a estruturação semântica de páginas HTML  
+- Aprimorar o uso de CSS para estilização, layout e responsividade  
+- Implementar boas práticas de desenvolvimento web  
 
-Praticar a estruturação de páginas HTML
+---
 
-Aprimorar o uso de CSS para estilização e layout
+## 🚀 Como executar o projeto
 
-Implementar boas práticas de desenvolvimento web
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/Leoluigy/Training-html-css.git
 
-🚀 Como Executar o Projeto
+2. Acesse o diretório do projeto:
+  ```
+  cd Training-html-css
+  ```
 
-Acessar resutado:
+3. Abra o arquivo index.html em seu navegador preferido.
 
-<a href="https://resume.redtab.com.br/">Training-html-css</a>
-
-Clone este repositório:
-
-git clone https://github.com/Leoluigy/Training-html-css.git
-
-Acesse o diretório do projeto:
-
-cd Training-html-css
-
-Abra o arquivo index.html em seu navegador preferido.
-
-📄 Licença
-
-Este projeto é de código aberto e está licenciado sob a MIT License.
